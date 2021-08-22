@@ -32,4 +32,4 @@ you can add this file with elementor or any type if websites.
 ![2](https://user-images.githubusercontent.com/56198841/130363025-178d37a1-4292-4c7c-9b11-98d79790c8eb.png)
 
 
-i used this artical for getBoundingClientRect * [getBoundingClientRect](https://#)
+i check this video  * [BMICalculator](https://user-images.githubusercontent.com/56198841/130363377-b39640a1-62a5-4af5-9a38-80bf58668eb9.mp4)
