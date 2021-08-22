@@ -4,6 +4,11 @@
 Calculate Your Body Mass Index
 
 Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women. View the BMI tables or use the tool below to compute yours.
+BMI Categories:
+Underweight = <18.5
+Normal weight = 18.5–25
+Overweight = 25–30
+Obesity = BMI of 30 or greater
 
 Enter your weight and height using standard or metric measures.
 Select "Compute BMI" and your BMI will appear 
@@ -21,8 +26,10 @@ you can add this file with elementor or any type if websites.
 >-  addEventListener to the form to submit 
 >- function to get value from the input 
 
->- Added class `active` Class to navbar menu when the item is active make new style or diffent style to make user know which item is the menu is active 
->- added class active and style by adding `your-active-class`
->- created for loop for each section,if the section in view port check this class your-active-class id isnot in the section add it ,else removie the class name 
+![1](https://user-images.githubusercontent.com/56198841/130362983-5fb2bbd2-f0b9-426c-9692-88bfad5e43e1.png)
 
-i used this artical for getBoundingClientRect * [getBoundingClientRect](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect)
+#REsults 
+![2](https://user-images.githubusercontent.com/56198841/130363025-178d37a1-4292-4c7c-9b11-98d79790c8eb.png)
+
+
+i used this artical for getBoundingClientRect * [getBoundingClientRect](https://#)
